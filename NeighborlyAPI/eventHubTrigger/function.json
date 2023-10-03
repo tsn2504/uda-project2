@@ -1,0 +1,12 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "eventGridTrigger",
+      "name": "event",
+      "direction": "in",
+      "eventHubName": "nguyents3eventhub",
+      "connection": "Endpoint=sb://nguyents3eventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=d8F0ORlKD9GfCPm0QkWxylUW898tPH6kl+AEhNxTCx0="
+    }
+  ]
+}

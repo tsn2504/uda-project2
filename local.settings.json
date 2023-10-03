@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=nguyents3storage;AccountKey=EmzvMv/OUIf4kYbwLiDFWiRUgfHqnuxRyou1tAx6d6QkRMTAOzpHkmv5ePqx83pUueqzR/hw0qKS+AStEYinMg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=nguyents3storage;AccountKey=EmzvMv/OUIf4kYbwLiDFWiRUgfHqnuxRyou1tAx6d6QkRMTAOzpHkmv5ePqx83pUueqzR/hw0qKS+AStEYinMg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "nguyents3project291d6",
+    "MyDbConnection": "mongodb://nguyents3db:3LjEgEpsMgp9n6QFwOyNMBoUb3UFossqwY2wuoOAfCa0CjdF0yVNx9J2dRC7ouLhGxQ2k5SYpUBhACDb7Dc3hw==@nguyents3db.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@nguyents3db@"
+  }
+}
